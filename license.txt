@@ -1,0 +1,11 @@
+Model Information:
+* title:	car Range Rover small Red
+* source:	https://sketchfab.com/3d-models/car-range-rover-small-red-419f62ef87994a1cbd9b5145d8d68ebf
+* author:	Nikitos & 3130 (https://sketchfab.com/vrcityphoto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "car Range Rover small Red" (https://sketchfab.com/3d-models/car-range-rover-small-red-419f62ef87994a1cbd9b5145d8d68ebf) by Nikitos & 3130 (https://sketchfab.com/vrcityphoto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
